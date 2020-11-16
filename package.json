@@ -1,6 +1,6 @@
 {
   "name": "@kavi4/measure-units-okei",
-  "version": "1.0.0",
+  "version": "0.5.0",
   "description": "Russian measure unit classifier OKEI",
   "main": "dist/bundle.cjs.js",
   "module": "dist/bundle.esm.js",
