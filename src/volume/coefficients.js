@@ -14,12 +14,16 @@ export default [
     [Units.THOUSAND_DECALITERS, 10],
     [Units.HECTOLITER, 10],
     [Units.CORD, 3.63],
+    [Units.GROSS_REGISTER_TON, 2.8316],
+    [Units.NET_REGISTER_TON, 2.8316],
     [Units.THOUSAND_BOARD_FEET, 2.36],
+    [Units.MEASURED_TON, 1.12],
     [Units.CUBIC_METER, 1],
     [Units.DENSE_CUBIC_METER, 1],
     [Units.NOMINAL_CUBIC_METER, 1],
     [Units.THOUSAND_LITERS, 1],
-    [Units.STANDARD, 1],//про эту хрень даже google ничего не знает
+    [Units.STANDARD, 1], //про эту хрень даже google ничего не знает
+    [Units.DISPLACEMENT, 0.911], //предполагаем что это тонна водоизмещения
     [Units.CUBIC_YARD, 0.764555],
     [Units.BARREL_USA, 0.158987],
     [Units.US_DRY_BARREL, 0.115627],
